@@ -69,3 +69,7 @@ Para gestionar las relaciones de muchos a muchos entre personajes y jutsus, y en
 
 ## Funcionalidad
 Esta base de datos facilita la consulta y gestión de información detallada sobre el universo de Naruto, permitiendo a los usuarios obtener datos específicos sobre personajes, sus habilidades, sus relaciones con otras entidades (como clanes y aldeas), y su participación en diferentes capítulos de la serie.
+
+## DER
+
+![Naruto](./DER - Naruto.png)
