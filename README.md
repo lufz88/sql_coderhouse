@@ -72,4 +72,4 @@ Esta base de datos facilita la consulta y gestión de información detallada sob
 
 ## DER
 
-![Naruto](./DER - Naruto.png)
+![DER - Naruto](./DER_Naruto.png)
